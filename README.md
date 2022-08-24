@@ -7,9 +7,9 @@ In this game, you have to play as an independent journalist who evaluates abando
 
 My work on the project: 
 -------------------------
-Creating and configuring interactive objects.
-Creating a scaffolding system moving through it.
-Localization and changing languages.
+<br>Creating and configuring interactive objects.</br>
+<br>Creating a scaffolding system moving through it.</br>
+<br>Localization and changing languages.</br>
 
 Screenshots:
 -------------------------
