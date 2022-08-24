@@ -7,10 +7,9 @@ In this game, you have to play as an independent journalist who evaluates abando
 
 My work on the project: 
 -------------------------
-- Transferring design layout from Figma to Unity.
-- Customizing the interface and animations on Unity Animator.
-- Setting up postprocessing.
-- And minor adjustments to game objects in the scene.
+Creating and configuring interactive objects.
+Creating a scaffolding system moving through it.
+Localization and changing languages.
 
 Screenshots:
 -------------------------
